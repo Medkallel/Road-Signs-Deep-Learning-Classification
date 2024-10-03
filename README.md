@@ -39,6 +39,7 @@ The primary goal is to accurately classify road signs while exploring various te
 ### Dataset
 
 The **GTSRB dataset** contains 50,000+ images of road signs. It will be split into training, validation, and test sets with data augmentation to increase robustness & generalization.
+[Dataset-Link](https://www.kaggle.com/datasets/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign).
 
 ---
 <!-- 
@@ -73,6 +74,10 @@ cd Road-Signs-Deep-Learning-Classification
 ```sh
 pip install -r requirements.txt
 ```
+> [!IMPORTANT]
+> Download the dataset from the following link: [Dataset-Link](https://www.kaggle.com/datasets/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign)
+> And place it in the Data folder.
+
 ---
 
 ## Usage 
@@ -84,8 +89,7 @@ pip install -r requirements.txt
 ## Project structure
 ```sh
 📦 Road-Signs-Deep-Learning-Classification/
-├── 📁Data/
-│   └── 🐍Data_Download.py # Run this file to download the data from kaggle
+├── 📁Data/ # Contains the dataset
 ├── 📁Models/
 │   ├── 📓Exploratory_Data_Analysis.ipynb
 │   ├── 📓Model_Training.ipynb
