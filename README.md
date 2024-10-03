@@ -90,11 +90,10 @@ pip install -r requirements.txt
 ```sh
 📦 Road-Signs-Deep-Learning-Classification/
 ├── 📁Data/ # Contains the dataset
-├── 📁Models/
-│   ├── 📓Exploratory_Data_Analysis.ipynb
-│   ├── 📓Model_Training.ipynb
-│   └── 📁Exported_Models/
-│       └── 🗃️Road_Sign_Classification_Model.pkl
+├── 📁Model/
+│   └── 🗃️Road_Sign_Classification_Model.keras
+├── 📓Exploratory_Data_Analysis.ipynb
+├── 📓Model_Training.ipyn
 ├── 📄requirements.txt
 ├── 📄README.md
 │── 📄.gitignore
