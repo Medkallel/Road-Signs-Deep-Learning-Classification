@@ -96,6 +96,8 @@ pip install -r requirements.txt
 ├── 📓Model_Training.ipyn
 ├── 📄requirements.txt
 ├── 📄README.md
+├── 📄Project_Report.pdf
+├── 📄Project_Presentation.pdf
 │── 📄.gitignore
 └── 🖼️banner.png
 ```
