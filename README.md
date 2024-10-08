@@ -9,7 +9,7 @@
 -   [Technologies Used](#technologies-used)
 -   [Description](#description)
 -   [Objectives](#objectives)
-<!-- -   [Presentation](#presentation) -->
+-   [Presentation](#presentation)
 -   [Notebooks Overview](#notebooks-overview)
 -   [Installation](#installation)
 -   [Usage](#usage)
@@ -42,12 +42,14 @@ The **GTSRB dataset** contains 50,000+ images of road signs. It will be split in
 [Dataset-Link](https://www.kaggle.com/datasets/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign).
 
 ---
-<!-- 
+ 
 ## Presentation
 
-A **presentation** is available as a **PDF** file in the repo ```Movie_Recommendation_System_Presentation.pdf``` & also as a **Canva/Powerpoint** presentation through the following link: [Presentation Link](https://www.canva.com/design/DAGPvK0-A2g/1DJtvrzpoxdP5VG_GcgkhA/view?utm_content=DAGPvK0-A2g&utm_campaign=designshare&utm_medium=link&utm_source=editor).
+A **presentation** is available as a **PDF** file in the repo ```Project_Presentation.pdf``` & also as a **Canva/Powerpoint** presentation through the following link: [Presentation Link](https://www.canva.com/design/DAGSyykKpyU/01DGiPTMKn9Aoa5OVzSNeA/view?utm_content=DAGSyykKpyU&utm_campaign=designshare&utm_medium=link&utm_source=editor).
 
---- -->
+A **Project Report** is available as well as a **PDF** files in the repo ```Project_Report.pdf```.
+
+--- 
 
 ## Notebooks Overview
 
